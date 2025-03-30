@@ -1,0 +1,6 @@
+faiss-cpu
+openai
+PyPDF2
+python-docx
+numpy
+python-dotenv
